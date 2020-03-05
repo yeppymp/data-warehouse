@@ -1,0 +1,8 @@
+What is data warehouse? to support, to help make a decision
+
+- Decision support, ex: wants to buy new iphone? got decision support from youtuber, from friend, from google.
+- Support information processing
+
+"A data warehouse is a subject-oriented, integrated, time-variant, an non-volatile collection of data in support of management's decision-making process" - W.H. Inmon
+
+
